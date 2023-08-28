@@ -1,4 +1,4 @@
-package com.mlt.api.apioperations;
+package com.mlt.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
